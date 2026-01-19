@@ -1,12 +1,7 @@
-<h2>📸 Screenshots</h2>
+## 📸 Screenshots
 
-<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/home.png" width="300" />
+![Home Screen](./screenshots/home.png)
 
-<br><br>
+![Login Screen](./screenshots/login.png)
 
-<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/login.png" width="300" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/signin.png" width="300" />
-
+![Sign In Screen](./screenshots/signin.png)
