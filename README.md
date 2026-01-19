@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
-![Home Screen](./screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
-![Login Screen](./screenshots/login.png)
+![Login Screen](screenshots/login.png)
 
-![Sign In Screen](./screenshots/signin.png)
+![Sign In Screen](screenshots/signin.png)
