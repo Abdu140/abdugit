@@ -1,8 +1,8 @@
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home.png)
+<img src="./screenshots/home.png" width="300">
 
-![Login Screen](screenshots/login.png)
+<img src="./screenshots/login.png" width="300">
 
-![Sign In Screen](screenshots/signin.png)
+<img src="./screenshots/signin.png" width="300">
 
