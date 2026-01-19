@@ -1,10 +1,12 @@
-Flutter Task 5 #
-Image Picker and Slider
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-![Home Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/home.png)
+<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/home.png" width="300" />
 
-![Login Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/login.png)
+<br><br>
 
-![Sign In Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/signin.png)
+<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/login.png" width="300" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Abdu140/-/main/screenshots/signin.png" width="300" />
 
