@@ -2,8 +2,8 @@ Flutter Task 5 #
 Image Picker and Slider
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home.png)
+![Home Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/home.png)
 
-![Login Screen](screenshots/login.png)
+![Login Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/login.png)
 
-![Sign In Screen](screenshots/signin.png)
+![Sign In Screen](https://raw.githubusercontent.com/Abdu140/-/main/screenshots/signin.png)
