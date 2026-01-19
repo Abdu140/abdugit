@@ -4,4 +4,5 @@ Image Picker and Slider
 
 ![Home Screen](screenshots/home.png)
 ![Login Screen](screenshots/login.png)
-![Sign In Screen](screenshots/sgin%20in.png)
+![Sign In Screen](screenshots/signin.png)
+
