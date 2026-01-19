@@ -1,8 +1,9 @@
 ## 📸 Screenshots
 
-<img src="./screenshots/home.png" width="300">
+![Home Screen](https://github.com/Abdu140/abdugit/blob/main/screenshots/home.png?raw=true)
 
-<img src="./screenshots/login.png" width="300">
+![Login Screen](https://github.com/Abdu140/abdugit/blob/main/screenshots/login.png?raw=true)
 
-<img src="./screenshots/signin.png" width="300">
+![Sign In Screen](https://github.com/Abdu140/abdugit/blob/main/screenshots/signin.png?raw=true)
+
 
